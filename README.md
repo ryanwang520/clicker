@@ -1,2 +1,3 @@
 # clicker
-play with pytest,clicker&amp;&amp;other stuffs
+
+play with pytest click black pylint and other py tools
